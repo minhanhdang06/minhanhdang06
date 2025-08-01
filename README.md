@@ -18,7 +18,7 @@ A fresher Data Analyst with a strong passion for playing with code and uncoverin
 
 - **(NEU)** National Economics University - Investment Economic 2020-2024
 
-High Distinction, GPA: 3.63/4. Related coursework: Probability and Mathematical Statistics, Econometrics.
+High Distinction, GPA: 3.63/4. Related coursework: Probability and Mathematical Statistics, Econometrics, Mathematics for Economics
 
 - **Data Analyst Coaching 1 on 1 Program** - Unigap (4/2025)
 

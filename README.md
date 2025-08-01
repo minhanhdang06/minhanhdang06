@@ -18,9 +18,9 @@ A fresher Data Analyst with a strong passion for playing with code and uncoverin
 
 - **(NEU)** National Economics University - Investment Economic 2020-2024
 
-GPA 8.07/10. Related coursework: Statistics in Business, Data Analytics, Product/Service Innovation
+High Distinction, GPA: 3.63/4. Related coursework: Probability and Mathematical Statistics, Econometrics.
 
-- Data Analyst Coaching 1 on 1 Program - Unigap (4/2025)
+- **Data Analyst Coaching 1 on 1 Program** - Unigap (4/2025)
 
 (SQL, Power BI, Python): Completed 12 Datacamp courses and finished 4 hands-on projects from beginner to advanced level, Joined problem-solving and design thinking training sessions
 

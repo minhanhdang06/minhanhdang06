@@ -26,4 +26,4 @@ GPA 8.07/10. Related coursework: Statistics in Business, Data Analytics, Product
 
 I’m currently learning Machine Learning.
 
-My Certificate
+[My Certificates](https://drive.google.com/file/d/17jC4kugUrFwbvjWCZEu5a3gNULc-3n_m/view?usp=sharing)

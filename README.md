@@ -1,16 +1,29 @@
-## Hi there 👋
+# Data Analyst
 
-<!--
-**minhanhdang06/minhanhdang06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A fresher Data Analyst with a strong passion for playing with code and uncovering insights to create amazing stories.
 
-Here are some ideas to get you started:
+### Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL: MySQL, PostgreSQL, Google BigQuery
+- Power BI: DAX, Power Query, Data Modeling
+- Python: Pandas, NumPy, MatPlotLib, Seaborn
+
+### Profile for Sharing
+
+⚡[POWER BI-Global Superstore Sales Analysis](https://github.com/minhanhdang06/POWER_BI_Global-Superstore-Sales-and-Expansion-Strategy-Analysis?tab=readme-ov-file#power-bi-global-superstore-sales-and-expansion-strategy-analysis) : Provide information about the company's business situation to develop market expansion strategies and decide on strategic product selection.
+
+⚡[SQL-Ecommerce-Dataset](https://github.com/minhanhdang06/SQL-E-commerce-Dataset) : Explore e-commerce dataset with Google BigQuery SQL.
+
+### Education & Certificates
+
+- **(NEU)** National Economics University - Investment Economic 2020-2024
+
+GPA 8.07/10. Related coursework: Statistics in Business, Data Analytics, Product/Service Innovation
+
+- Data Analyst Coaching 1 on 1 Program - Unigap (4/2025)
+
+(SQL, Power BI, Python): Completed 12 Datacamp courses and finished 4 hands-on projects from beginner to advanced level, Joined problem-solving and design thinking training sessions
+
+I’m currently learning Machine Learning.
+
+My Certificate

@@ -7,6 +7,7 @@ A fresher Data Analyst with a strong passion for playing with code and uncoverin
 - SQL: MySQL, PostgreSQL, Google BigQuery
 - Power BI: DAX, Power Query, Data Modeling
 - Python: Pandas, NumPy, MatPlotLib, Seaborn
+- Machine Learning
 
 ### Projects for sharing
 
@@ -16,7 +17,7 @@ A fresher Data Analyst with a strong passion for playing with code and uncoverin
 
 ### Education & Certificates
 
-- **(NEU)** National Economics University - Investment Economic 2020-2024
+- **(NEU) National Economics University** - Investment Economic (2020-2024)
 
 High Distinction, GPA: 3.63/4. Related coursework: Probability and Mathematical Statistics, Econometrics, Mathematics for Economics
 

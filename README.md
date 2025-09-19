@@ -11,8 +11,6 @@ A fresher Data Analyst with a strong passion for playing with code and uncoverin
 
 ### Projects for sharing
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
 ⚡[POWER BI-Global Superstore Sales Analysis](https://github.com/minhanhdang06/POWER_BI_Global-Superstore-Sales-and-Expansion-Strategy-Analysis?tab=readme-ov-file#power-bi-global-superstore-sales-and-expansion-strategy-analysis) : Provide information about the company's business situation to develop market expansion strategies and decide on strategic product selection.
 
 ⚡[SQL-Ecommerce-Dataset](https://github.com/minhanhdang06/SQL-E-commerce-Dataset) : Explore e-commerce dataset with Google BigQuery SQL.

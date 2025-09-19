@@ -10,6 +10,7 @@ A fresher Data Analyst with a strong passion for playing with code and uncoverin
 - Machine Learning
 
 ### Projects for sharing
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhanhdang06&repo=POWER_BI_Global-Superstore-Sales-and-Expansion-Strategy-Analysis&theme=gruvbox_light)](https://github.com/minhanhdang06/POWER_BI_Global-Superstore-Sales-and-Expansion-Strategy-Analysis)
 
 ⚡[POWER BI-Global Superstore Sales Analysis](https://github.com/minhanhdang06/POWER_BI_Global-Superstore-Sales-and-Expansion-Strategy-Analysis?tab=readme-ov-file#power-bi-global-superstore-sales-and-expansion-strategy-analysis) : Provide information about the company's business situation to develop market expansion strategies and decide on strategic product selection.
 

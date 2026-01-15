@@ -24,6 +24,5 @@ High Distinction, GPA: 3.63/4. Related coursework: Probability and Mathematical 
 
 (SQL, Power BI, Python): Completed 12 Datacamp courses and finished 4 hands-on projects from beginner to advanced level, Joined problem-solving and design thinking training sessions
 
-I’m currently learning Machine Learning.
 
-[My Certificates](https://drive.google.com/file/d/17jC4kugUrFwbvjWCZEu5a3gNULc-3n_m/view?usp=sharing)
+
